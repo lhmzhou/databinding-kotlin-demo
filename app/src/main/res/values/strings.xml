@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Databinding Demo</string>
+    <string name="workout">Workout</string>
+    <string name="everyday">Everyday</string>
+    <string name="recyclable">Recyclable</string>
+    <string name="plush">Plush</string>
+    <string name="bought">Bought</string>
+    <string name="received">Received</string>
+    <string name="categories">Categories:</string>
+    <string name="name">Name:</string>
+    <string name="suitable_for">Suitable for:</string>
+    <string name="state">State:</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="cd_item_gender">Color corresponding to gender</string>
+    <string name="cd_state_symbol">Image corresponding to state of the shoe, new or used</string>
+    <string name="cd_empty_image">Crying kid icon, shown when there is no shoe</string>
+    <string name="ballroom">Ballroom</string>
+    <string name="casual">Casual</string>
+    <string name="undo">UNDO</string>
+    <string name="shoe_is_deleted">Shoe is deleted</string>
+    <string name="shoe_empty_warning">Shoe name can\'t be empty</string>
+    <string name="unsaved_changes_warning_title">Discard changes?</string>
+    <string name="unsaved_changes_warning_message">Are you sure you want to discard the changes?</string>
+    <string name="yes">Yes</string>
+</resources>
